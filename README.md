@@ -20,3 +20,5 @@ Software Engineer
 <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/imjosephvictor?theme=nord&font=Darker%20Grotesque)
+
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Josephvictor/github-readme-stats)
