@@ -21,4 +21,4 @@ Software Engineer
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/imjosephvictor?theme=nord&font=Darker%20Grotesque)
 
-[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Josephvictor/github-readme-stats)
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josephvictor)](https://github.com/Josephvictor/github-readme-stats)
